@@ -85,7 +85,7 @@ input, select, textarea {
 	html {
 		background-color: #313a3d;
 		background-attachment: fixed,						fixed;
-		background-image: url("https://cdn.jsdelivr.net/gh/foryou57/page-images/2021-04-18-anlian/ico-122.jpg"), url("https://cdn.jsdelivr.net/gh/foryou57/page-images/2021-04-18-anlian/bg.jpg");
+		background-image: url("https://cdn.jsdelivr.net/gh/foryou57/page-images/2021-04-18-anlian/bg.jpg"), url("https://cdn.jsdelivr.net/gh/foryou57/page-images/2021-04-18-anlian/bg.jpg");
 		background-position: top left,					center center;
 		background-repeat: repeat,						none;
 		background-size: auto,						cover;
